@@ -55,12 +55,17 @@ I am the director of the [_i-CONN ITN] (https://iconn.network) (2019 – 2023).
 
 Current PhD Dtudents
 ======
-**Julia Costescu:** Using connectivity science to determine the fate (source-pathway-interceptors) of pharmaceuticals in the water supply chain.
+* **Julia Costescu:** Using connectivity science to determine the fate (source-pathway-interceptors) of pharmaceuticals in the water supply chain.
 Supervised with Louise Bracken and Damien Crilly
-**Mel Guirro:** Scaling sediment connectivity in fluvial systems. Supervised with Rebecca Hodge and Fiona Clubb
-**Ikenna Osumgborogwu:**  Gully-landslide interactions: an ecogeomorphic investigation. Supervised with John Wainwright
-**Deborah Priß:** Networks and Resilience: Combining Agent-Based Modelling and Network Analysis to evaluate the significance of networks for the resilience of past  societies. 
+
+* **Mel Guirro:** Scaling sediment connectivity in fluvial systems. Supervised with Rebecca Hodge and Fiona Clubb
+
+* **Ikenna Osumgborogwu:**  Gully-landslide interactions: an ecogeomorphic investigation. Supervised with John Wainwright
+
+* **Deborah Priß:** Networks and Resilience: Combining Agent-Based Modelling and Network Analysis to evaluate the significance of networks for the resilience of past  societies. 
 Supervised with John Wainwright and Dan Lawrence
-**Avidesh Seenath:** Modelling mesoscale evolution of managed sandy shorelines with particular reference to Caribbean small islands. Supervised with Ian Shennan and Rich Hardy
-**Shubham Tiwari:** Spatial and temporal roles of critical nodes in ecogeomorphic systems. Supervised with John Wainwright
+
+* **Avidesh Seenath:** Modelling mesoscale evolution of managed sandy shorelines with particular reference to Caribbean small islands. Supervised with Ian Shennan and Rich Hardy
+
+* **Shubham Tiwari:** Spatial and temporal roles of critical nodes in ecogeomorphic systems. Supervised with John Wainwright
 
