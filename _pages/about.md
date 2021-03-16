@@ -16,7 +16,7 @@ My research relies heavily on multiple approaches: experimental work, long-term 
 
 Ecohydrology and ecogeomorphology
 ======
-Previous research has investigated how spatial patterns (autocorrelation) of surface soil moisture influences patterns of runoff connectivity over a grassland-shrubland ecotone at the [Sevilleta LTER!] (https://sevlter.unm.edu/) in New Mexico, USA. 
+Previous research has investigated how spatial patterns (autocorrelation) of surface soil moisture influences patterns of runoff connectivity over a grassland-shrubland ecotone at the [Sevilleta LTER!](https://sevlter.unm.edu/) in New Mexico, USA. 
 
 ![image](https://user-images.githubusercontent.com/72811259/111383706-7f167680-86a0-11eb-845a-a4aeb41a0850.png)
 
@@ -32,7 +32,7 @@ Land degradation in drylands
 
 Human modifications to the ecogeomorphic structure and function of the environment
 ======
-Work at the [CAP LTER!] (https://sustainability-innovation.asu.edu/caplter/) in Arizona, USA has explored how changes to urban river networks and land cover alter the flow of water, sediment and nutrients through the system
+Work at the [CAP LTER!](https://sustainability-innovation.asu.edu/caplter/) in Arizona, USA has explored how changes to urban river networks and land cover alter the flow of water, sediment and nutrients through the system
 ![image](https://user-images.githubusercontent.com/72811259/111384217-28f60300-86a1-11eb-82d1-cb85b5f696f8.png)
 
 
@@ -49,9 +49,7 @@ Add content
 
 i-CONN Innovative Training Network
 ------
-I am the director of the [_i-CONN ITN] (https://iconn.network) (2019 – 2023).
-![i-conn (colour)](https://user-images.githubusercontent.com/72811259/111382969-86895000-869f-11eb-993d-4a0728ce2e61.jpg =250x250)
-
+I am the director of the [i-CONN ITN!](https://iconn.network) (2019 – 2023).
 
 Current PhD Dtudents
 ======
