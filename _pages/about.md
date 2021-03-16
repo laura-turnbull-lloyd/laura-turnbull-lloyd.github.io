@@ -33,6 +33,7 @@ Land degradation in drylands
 Human modifications to the ecogeomorphic structure and function of the environment
 ======
 Work at the [CAP LTER!](https://sustainability-innovation.asu.edu/caplter/) in Arizona, USA has explored how changes to urban river networks and land cover alter the flow of water, sediment and nutrients through the system
+
 ![image](https://user-images.githubusercontent.com/72811259/111384217-28f60300-86a1-11eb-82d1-cb85b5f696f8.png)
 
 
